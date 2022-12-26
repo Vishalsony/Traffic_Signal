@@ -1,0 +1,12 @@
+.row 
+{
+    height: 10em;
+    /* width: 100%; */
+    justify-content: center;
+}
+
+.r1 
+{
+    border-radius: 50%;
+    border:2px solid;
+}
